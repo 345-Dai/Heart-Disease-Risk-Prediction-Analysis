@@ -84,3 +84,7 @@ High Risk: Multiple factors (5 to 8) working together to increase the danger."
 Comorbidity Heatmap: Visualized the synergy between 8 clinical variables.
 
 Risk Categorization: Built an algorithm to classify patients into Low, Medium, and High-risk profiles.
+
+## 🔗 Connect & Discuss
+Feel free to check out the **project announcement and discussion** on LinkedIn:
+[👉 View LinkedIn Post]([رابط_البوست_هن](https://www.linkedin.com/posts/dai-elashry-04a31a27a_heart-disease-risk-prediction-ugcPost-7459671080044134400-l9QZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQI2LoBccDjmnZX1MgmyCuhrSGYC7Amg2Y))
