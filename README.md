@@ -88,3 +88,11 @@ Risk Categorization: Built an algorithm to classify patients into Low, Medium, a
 ## 🔗 Connect & Discuss
 Feel free to check out the **project announcement and discussion** on LinkedIn:
 [👉 View LinkedIn Post](https://www.linkedin.com/posts/dai-elashry-04a31a27a_heart-disease-risk-prediction-ugcPost-7459671080044134400-l9QZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQI2LoBccDjmnZX1MgmyCuhrSGYC7Amg2Y))
+
+## 📂 How to Access the Project
+* [View the Python Notebook: Corr_HeatMap&RiskProbability_Detiction.ipynb](Corr_HeatMap&RiskProbability_Detiction.ipynb)
+* [Access the Dataset: heart_disease_risk_dataset.csv](heart_disease_risk_dataset)
+* [Access to Heart Disease Risk Factors Dashboard:Dashboard_risk factor.PNG](Dashboard_risk factor.PNG)
+* [Access to Heart Disease Risk by Symptoms  Dashboard:Dashboard_symptoms.PNG](Dashboard_symptoms.PNG)
+* [View the Final Project Presentation: Heart Disease Risk Prediction.pptx](Heart Disease Risk Prediction.ppxt)
+* 
